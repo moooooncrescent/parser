@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "outDir": "./build"
+  },
+  "include": ["src"]
+}
